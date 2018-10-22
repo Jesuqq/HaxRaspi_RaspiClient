@@ -1,4 +1,4 @@
-# HaxRaspi Server
+# HaxRaspi RaspiClient
 
 This is the Raspberry client component of HaxRaspi project. This client application is developed using Python 3.
 
